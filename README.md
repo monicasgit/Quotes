@@ -9,4 +9,4 @@ This repo is my way of collecting and sharing them.
 
 
 ## 👉 View Quotes
-📌 [Click here to read all quotes](Quotes/quotes.md)
+📌 [Click here to read all quotes](quotes.md)
